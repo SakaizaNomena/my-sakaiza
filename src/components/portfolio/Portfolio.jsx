@@ -42,7 +42,7 @@ const Portfolio = () => {
                             <h3 className="work__title">
                                 {title}
                             </h3>
-                            <a href="#" className="work__button">
+                            <a href="#portfolio" className="work__button">
                                 <i className='icon-link work_button-con'></i>
                             </a>
                         </div>

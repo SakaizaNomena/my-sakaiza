@@ -18,7 +18,7 @@ const About = () => {
                             Capable de se plongé dans un projet déjà en cours. Autodidact depuis la classe sécondaire...
                             <br />
                             <br />
-                            <a href="" className="btn">Download CV</a>
+                            <a href="https://my-sakaiza.netlify.app/my_cv.pdf" download className="btn">Download CV</a>
                         </div>
                     </div>
                     <div className="about__skills grid">

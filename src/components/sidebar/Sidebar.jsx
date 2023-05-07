@@ -12,6 +12,7 @@ const Sidebar = () => {
             <nav className="nav">
                 <div className="nav__menu">
                     <div className="nav__list">
+                        <ul>
                         <li className="nav_item">
                             <a href="#home" className="nav__link"><i className="icon-home"></i></a>
                         </li>
@@ -39,7 +40,7 @@ const Sidebar = () => {
                         <li className="nav_item">
                             <a href="#contact" className="nav__link"><i className="icon-bubble"></i></a>
                         </li>
-
+                        </ul>
                     </div>
                 </div>
             </nav>
