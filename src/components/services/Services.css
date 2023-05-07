@@ -71,3 +71,42 @@
 .services__card:nth-child(3) .services__description{
      color: #fff;
 }
+
+
+@media screen and (max-width: 1024px){ 
+ .services__container {
+    grid-template-columns: repeat(2, 330px);
+    justify-content: center;
+    row-gap: 1.875rem;
+  }
+
+}
+
+
+@media screen and (max-width: 768px){ 
+    .services__container {
+       grid-template-columns: 310px;
+       left: 0;
+     }
+
+     .about__data::before {
+        left: 0;
+     }
+
+     .about__data{
+        grid-template-columns: 1fr;
+        row-gap: 1.875rem;
+     }
+
+     .about__boxes {
+        grid-template-columns: repeat(2,150px);
+        row-gap: 1.5rem;
+        justify-content: center;
+     }
+ }
+
+ @media screen and (max-width: 400px){ 
+    .services__container {
+       grid-template-columns: 1fr;
+     }
+ }
