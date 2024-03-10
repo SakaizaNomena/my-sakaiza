@@ -14,8 +14,7 @@ const About = () => {
                 <div className="about__data grid">
                     <div className="about__info">
                         <div className="about__description">
-                            Passionné par la nouvelle technologie de l'information. Apte a s'adepter avec des nouvelles techno en une durré tres courte.
-                            Capable de se plongé dans un projet déjà en cours. Autodidact depuis la classe sécondaire...
+                        Passionné par les nouvelles technologies de l'information, je suis constamment avide d'apprendre et de m'adapter rapidement aux dernières avancées technologiques. Mon expérience m'a permis de m'intégrer facilement à des projets en cours et de les aborder avec efficacité. Depuis mes années de lycée, je suis un autodidacte passionné, toujours en quête de nouvelles compétences et de connaissances pour me perfectionner dans mon domaine
                             <br />
                             <br />
                             <a href="https://my-sakaiza.netlify.app/my_cv.pdf" download className="btn">Download CV</a>
@@ -25,10 +24,10 @@ const About = () => {
                         <div className="skills__data">
                             <div className="skills__titles">
                                 <h3 className="skills__name">
-                                    Development
+                                    Symfony
                                 </h3>
                                 <span className="skills__number">
-                                    95%
+                                    98%
                                 </span>
                             </div>
                             <div className="skills__bar">
@@ -41,9 +40,9 @@ const About = () => {
                         <div className="skills__data">
                             <div className="skills__titles">
                                 <h3 className="skills__name">
-                                    DevOps
+                                    React native (Android / IOS)
                                 </h3>
-                                <span className="skills__numbe">
+                                <span className="skills__number">
                                     60%
                                 </span>
                             </div>
@@ -57,10 +56,10 @@ const About = () => {
                         <div className="skills__data">
                             <div className="skills__titles">
                                 <h3 className="skills__name">
-                                    Database admin 
+                                    React - nextjs 
                                 </h3>
                                 <span className="skills__number">
-                                    95%
+                                    87%
                                 </span>
                             </div>
                             <div className="skills__bar">
@@ -68,7 +67,23 @@ const About = () => {
                                         
                                 </span>
                             </div>
-                        </div>                        
+                        </div> 
+
+                        <div className="skills__data">
+                            <div className="skills__titles">
+                                <h3 className="skills__name">
+                                    DevOps
+                                </h3>
+                                <span className="skills__number">
+                                    70%
+                                </span>
+                            </div>
+                            <div className="skills__bar">
+                                <span className="skills__percentage last">
+                                        
+                                </span>
+                            </div>
+                        </div>                       
                     </div>
                 </div>
             </div>

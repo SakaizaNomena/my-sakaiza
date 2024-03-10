@@ -11,7 +11,7 @@ const Home = () => {
                 <img src={Me} alt="" />
                 <h1 className="home__name">Sakaiza Nomena</h1>
                 <span className="nome__education">
-                    Je suis developpeur Back-End
+                Bonjour, je suis un développeur spécialisé dans Symfony et React. <br />Passionné par la création d'applications web et mobiles performantes. <br /> Explorez mon portfolio pour découvrir mes réalisations
                 </span>
 
                 <HeaderSocials />

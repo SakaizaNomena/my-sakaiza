@@ -11,6 +11,10 @@
     text-align: center;
 }
 
+.nome__education {
+    font-size: 13px;
+}
+
 .home__img {
     margin-bottom: 1.5rem;
 }
@@ -24,7 +28,7 @@
 .home__socials {
     display: flex;
     column-gap: 1.75rem;
-    margin: 1.5rem 0;
+    margin: 2.5rem 130px;
 }
 
 .home__socials-link {

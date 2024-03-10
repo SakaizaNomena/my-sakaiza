@@ -10,7 +10,7 @@ const Card = (props) => {
             <div className="timeline__title">
                 {props.title}
             </div>
-            <div className="timeline__text">
+            <div className="timeline__text" style={{fontSize: 13}}>
                 {props.desc}
             </div>
         </div>

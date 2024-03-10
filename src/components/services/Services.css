@@ -54,14 +54,17 @@
 
 .services__card:nth-child(1) .services__description{
     color: #fff;
+    font-size: 13px;
 }
 
 .services__card:nth-child(2) .services__title{
      color: #fff;
+     font-size: 13px;
 }
 
 .services__card:nth-child(2) .services__description{
      color: #fff;
+     font-size: 13px;
 }
 
 .services__card:nth-child(3) .services__title{
